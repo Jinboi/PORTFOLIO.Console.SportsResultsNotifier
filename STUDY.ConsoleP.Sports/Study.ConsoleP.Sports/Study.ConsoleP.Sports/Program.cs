@@ -32,7 +32,7 @@ namespace Study.ConsoleP.Sports
                     var results = scraper.GetResults(url);
 
                     string fromEmail = "duddnwkfgo7@gmail.com";
-                    string appPassword = "zshr ytec fgau ztqd";
+                    string appPassword = "wetv vcmp urwh kgxb";
 
                     string toEmail = "kevinleea1b2c2@gmail.com";
 
